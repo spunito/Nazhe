@@ -1,0 +1,43 @@
+body{
+    background-color:gray;
+    overflow: hidden;
+
+}
+#todo{
+    position: relative;
+    margin-top: 12%;
+    margin-left: 30%;
+}
+h2{
+    font-family: "Arial";
+    margin-top: 4px;
+    margin-left: 10%;
+    color:black;
+    
+}
+#suma
+{
+    margin-left: 8px;
+}
+#resultt
+{
+    margin-right: 2%;
+}
+.estilo1 
+{background-color:darkred; 
+height: 250px;
+width: 500px;
+text-align:inherit;
+border: 10px solid black;}
+
+label{
+    color:white
+}
+#boton1 {
+
+    text-align: right;
+    height: 8px;
+    border-bottom: 20px;
+    margin-top: 1%;
+    margin-right: 3.33%;
+}

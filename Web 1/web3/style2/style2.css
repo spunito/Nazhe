@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
+}
+h1{
+    text-align: center;
+}
+#llama
+{
+    width: 600px;
+    
+    overflow: hidden;
+}
